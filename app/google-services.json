@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "341093761447",
+    "firebase_url": "https://tafweej-a1914.firebaseio.com",
+    "project_id": "tafweej-a1914",
+    "storage_bucket": "tafweej-a1914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341093761447:android:8fc987b93f53d7aa",
+        "android_client_info": {
+          "package_name": "com.example.rufaidah.tafweej"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341093761447-7oh5qok6j8erics9d0v35p7ftjs4ks66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rufaidah.tafweej",
+            "certificate_hash": "5436538c170c40c90842f2c6cefe51d3e31788e6"
+          }
+        },
+        {
+          "client_id": "341093761447-nkdih09mns01t8p62v6bbfqa4gr4okfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJSz_OqwZ_Va6gJLIZWuLqXphWT_kiYY8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341093761447-nkdih09mns01t8p62v6bbfqa4gr4okfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
